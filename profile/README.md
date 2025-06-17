@@ -1,11 +1,11 @@
-# 🕳️ Deepskim.ai
+# 🕳️ Deepskim
 
 > **Surface insights no one else can see.**  
 > An AI-powered research tool that mines the internet’s long tail — overlooked forums, preprints, GitHub wikis, and obscure blogs — to extract niche, contrarian, or underexplored knowledge.
 
 ---
 
-## 🧠 What is Deepskim.ai?
+## 🧠 What is Deepskim?
 
 Mainstream LLMs are trained on sanitized, popular, and SEO-optimized content.  
 But **real breakthroughs often come from the edges** — small communities, ignored PDFs, unindexed threads, and weird blogs.
@@ -46,8 +46,8 @@ But **real breakthroughs often come from the edges** — small communities, igno
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/deepskim.ai.git
-cd deepskim.ai
+git clone https://github.com/deepskim-ai/deepskim.git
+cd deepskim
 
 # Create virtual env
 python -m venv venv
@@ -74,7 +74,7 @@ python app.py
 ## 💡 Why Build This?
 
 Because GPT can’t give you what it hasn’t seen.
-Deepskim.ai gives thinkers, researchers, and builders a window into the information **everyone else overlooks**.
+Deepskim gives thinkers, researchers, and builders a window into the information **everyone else overlooks**.
 
 
 
