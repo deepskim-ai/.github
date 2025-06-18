@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
     <!-- <source srcset="https://raw.githubusercontent.com/deepskim-ai/.github/refs/heads/main/profile/images/deepskim_transparent_logo.png" media="(prefers-color-scheme: dark)"/> -->
-    <img src="https://raw.githubusercontent.com/deepskim-ai/.github/refs/heads/main/profile/images/deepskim_transparent_logo.png" alt="Deepskim Logo" height=520 width=800 />
+    <img src="https://raw.githubusercontent.com/deepskim-ai/.github/refs/heads/main/profile/images/deepskim_transparent_logo.png" alt="Deepskim Logo" height=620 width=700 />
   </picture>
 
   <h1>
